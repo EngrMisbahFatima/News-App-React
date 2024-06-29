@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 4903,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Insects find their way onto Italian plates despite resistance",
+            "description": "Pulverising crickets to make flour for food is seen by some as a threat to the Mediterranean diet.",
+            "url": "https://www.bbc.co.uk/news/world-europe-66022857",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F1F/production/_130219758_sofiatastingcrickettagliatelle.jpg",
+            "publishedAt": "2023-07-08T04:42:53Z",
+            "content": "Media caption, The BBC's Sofia Bettiza visits a cricket farm near Turin, Italy\r\nIn a small room near the Alps in northern Italy, containers filled with millions of crickets are stacked on top of each… [+6967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Brashna Kasi",
+            "title": "America doesn't really care about cricket. Can Major League Cricket change that?",
+            "description": "The new league makes its debut near Dallas on Thursday when the Texas Super Kings play the LA Knight Riders. The league's backers hope to cultivate a new generation of U.S. cricketers.",
+            "url": "https://www.npr.org/2023/07/13/1187445629/major-league-cricket-debut-texas-history-sport",
+            "urlToImage": "https://media.npr.org/assets/img/2023/07/13/ap23193166972710_wide-83ac6baf7108a8a2d6ef64e40e3084c753b83936-s1400-c100.jpg",
+            "publishedAt": "2023-07-13T16:38:41Z",
+            "content": "The Kolkata Knight Riders' Andre Russell plays a shot during Indian Premier League cricket match in Kolkata on April 29. Russell is a player on Major League Cricket's Los Angeles Knight Riders.\r\nBika… [+3576 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Silkworm sashimi, cricket curry on menu as bugs make a comeback in Japan - Reuters",
+            "description": "Silkworm sashimi, cricket curry on menu as bugs make a comeback in Japan  Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zaWxrd29ybS1zYXNoaW1pLWNyaWNrZXQtY3VycnktbWVudS1idWdzLW1ha2UtY29tZWJhY2stamFwYW4tMjAyMy0wNy0yNi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-07-26T04:45:43Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Organizers of Brampton cricket tournament say city has fan base to support permanent facility - CBC.ca",
+            "description": "<ol><li>Organizers of Brampton cricket tournament say city has fan base to support permanent facility  CBC.ca\r\n</li><li>Global T20 cricket tournament returns after a four-year hiatus  The Globe and Mail\r\n</li><li>Global T20 cricket wants expansion to other ci…",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2JyYW1wdG9uLWdsb2JhbC1ndDIwLWNyaWNrZXQtdG91cm5hbWVudC0xLjY5Mjg4MjjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNjkyODgyOA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-08-05T01:00:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "PA Media",
+            "title": "Yorkshire fined £400,000 and docked points over cricket racism scandal",
+            "description": "<ul><li>£300,000 of fine suspended for a period of two years</li><li>Club docked 48 points from County Championship total</li></ul>Yorkshire have been hit with points deductions in two formats and fined £400,000 over the racism scandal linked to their former …",
+            "url": "https://www.theguardian.com/sport/2023/jul/28/yorkshire-fine-points-deductions-over-racism-scandal-cricket",
+            "urlToImage": "https://i.guim.co.uk/img/media/b1bbef067dacc22ae19c1a3fab77d4c0aa8fc4b1/0_364_4865_2919/master/4865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11d9c371ea9562c5555758085a6cd066",
+            "publishedAt": "2023-07-28T14:09:42Z",
+            "content": "Yorkshire have been hit with points deductions in two formats and fined £400,000 over the racism scandal linked to their former player Azeem Rafiq. A Cricket Discipline Commission panel said £300,000… [+4364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Hosted by Savannah Ayoade-Greaves, written by Joe Gibson and Marina Hyde, narrated by Evelyn Miller and Geoffrey Newland, produced byRachel Porter, the executive producer is Ellie Bury.",
+            "title": "Weekend podcast: an affair that changed my life – an exclusive extract of Joe Gibson’s memoir, and Marina Hyde on Rishi Sunak’s ‘spirit of cricket’",
+            "description": "We’re doing something a bit different this week and bringing you an extended extract from Joe Gibson’s memoir, Seventeen, about the troubling affair with a teacher that changed his life (10m53s); and after Rishi Sunak is quick to decry the Australian cricket …",
+            "url": "https://www.theguardian.com/lifeandstyle/audio/2023/jul/08/weekend-podcast-an-affair-that-changed-my-life-an-exclusive-extract-of-joe-gibsons-memoir-and-marina-hyde-on-rishi-sunaks-spirit-of-cricket",
+            "urlToImage": "https://i.guim.co.uk/img/media/c987903c1685775b23a86d30014cf496283634ba/0_1_3979_2388/master/3979.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fefca1825f852d05e8c2b893c3369fb6",
+            "publishedAt": "2023-07-08T04:00:05Z",
+            "content": "Were doing something a bit different this week and bringing you an extended extract from Joe Gibsons memoir, Seventeen, about the troubling affair with a teacher that changed his life (10m53s); and a… [+185 chars]"
+        }
+    ]
+}
